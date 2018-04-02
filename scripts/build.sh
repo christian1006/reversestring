@@ -4,7 +4,7 @@ git checkout master
 # delete contents in /docs to avoid conflicts
 rm -rf ./docs
 # pull other changes
-git pull elewa master
+git pull origin master
 # build new gitbook
 gitbook build
 # copy it out of the way for branch change
