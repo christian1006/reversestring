@@ -8,7 +8,7 @@
   * [Quiz](./quizzes/git-github.md)
 * [Repo](https://github.com/elewa-academy/study-journal-template)
 * [Home (your portfolio)](https://elewa-academy.github.io)
-
+* [Projects](.projects/README.md)
 
 ___
 ___
