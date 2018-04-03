@@ -1,16 +1,15 @@
-# Git & GitHub Quiz
+quiz 2/4.md
 
-
-<quiz name="Git & Github Quiz">
+<quiz name="First Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
-        <answer correct>To read code</answer>
-        <answer>To edit code</answer>
-        <answer correct>To edit and publish beautiful code</answer>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
         <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
     </question>
     <question>
-        <p>What is a quiz?</p>
+        <p>Is it quiz?</p>
         <answer correct>Yes</answer>
         <answer>No</answer>
     </question>
@@ -42,7 +41,3 @@
         </answer>
     </question>
 </quiz>
-
-___
-___
-### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>

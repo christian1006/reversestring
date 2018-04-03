@@ -9,8 +9,8 @@
 	                "explanationHeader" : "Explanation"
 	            },
 	            "text": {
-	                "noChosen"    : "Choose at least one answer",  
-	                "incomplete"  : "Some correct answers are missing" 
+	                "noChosen"    : "Choose something!",  
+	                "incomplete"  : "Dude, can you count?" 
 	            },
 	            "buttons": {
 	                "showCorrect"       : true, 
