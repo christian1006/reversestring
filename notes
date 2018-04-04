@@ -1,1 +1,31 @@
+Code review:
 
+After a developer has finished working on an issue, dev asks the following Qs:
+
+1. Are there any obvious errors in the code? 
+2. Are all cases fully implemented?
+3. are the new autom. tests sufficient for the new code?
+4. Any rewriting required?
+5. Does the new code fit to existing guidelines? 
+
+Should integrate with a team's existing processes. 
+
+Agile teams: work is decentralized, none know a specific line of code.
+helps facilitate knowledge acrosss the code base and across the team. 
+
+Flexibility: ability to take work off the backlog 
+and able to go through new work because none is the critical path. 
+
+Better estimations. new features: good feeback and estimations. share of knowledge. 
+exposed to complex code. it leads to multiple, informed inputs which when used for 
+final estimate always makes that estimate stronger and reliable. 
+
+reviews enable time off. for vacation etc...
+
+it mentors newer engineers. 
+
+share the load. two reviews of any code. two inputs.
+
+review before merging. 
+
+ use peer pressure to your adv. 
